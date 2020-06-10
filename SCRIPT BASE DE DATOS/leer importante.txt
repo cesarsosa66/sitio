@@ -1,0 +1,4 @@
+credenciales de acceso
+
+usuario administrador: admin
+ clave:                admin
